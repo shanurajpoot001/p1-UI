@@ -1,2 +1,1 @@
-# p1-UI
-week 1 project UI  dedign
+# NextGen-Internship-P1-Week1
